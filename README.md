@@ -2,6 +2,7 @@
 
 [![View OneEuroFilter on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/183059-oneeurofilter)
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=cuixing158/OneEuroFilter&file=ExampleOneEuroFilter)
+[![MATLAB CI](https://github.com/cuixing158/OneEuroFilter/actions/workflows/ci.yml/badge.svg)](https://github.com/cuixing158/OneEuroFilter/actions/workflows/ci.yml)
 
 A MATLAB implementation of the **1 Euro Filter**[^1], a simple algorithm for filtering noisy signals for high precision and responsiveness.
 
@@ -75,5 +76,5 @@ title('1 Euro Filter Result');
 ## References
 
 [^1]: **1 € Filter: A Simple Speed-based Low-pass Filter for Noisy Input in Interactive Systems**  Géry Casiez, Nicolas Roussel, and Daniel Vogel. CHI 2012.  
-> <http://cristal.univ-lille.fr/~casiez/1euro/> <br>
+> <https://gery.casiez.net/1euro/> <br>
 > <https://www.mathworks.com/matlabcentral/fileexchange/129829-smooth-data>
